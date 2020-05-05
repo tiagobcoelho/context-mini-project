@@ -13,7 +13,7 @@
   background-color: #eee;
   border-radius: 10px;
   overflow-y: scroll;
-  box-shadow: 6px 6px 8px rgba(0, 0,0, .2);
+  box-shadow: 6px 6px 8px rgba(85, 85,85, .1);
 }
 
 .list h1{
